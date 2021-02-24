@@ -8,8 +8,6 @@ namespace EjerciciosLINQ
 {
     class Program
     {
-
-
         static void Main(string[] args)
         {
             // Ejercicio 1
